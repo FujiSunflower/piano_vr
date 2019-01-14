@@ -1,6 +1,6 @@
 # Piano VR
 他のVRソフトウェアで遊びながら使えるピアノです  
-Piano which can use on playing other VR software. This is [Download](https://github.com/rn9dfj3/piano_vr/releases).  
+Piano which you can use on playing other VR software. This is [Download](https://github.com/rn9dfj3/piano_vr/releases).  
 Thanks for [EasyOpenVROverlayForUnity](https://sabowl.sakura.ne.jp/gpsnmeajp/unity/EasyOpenVROverlayForUnity/)!!!  
 # How to Use
 Determine piano position  
